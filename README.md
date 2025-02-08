@@ -1,6 +1,7 @@
 # Deep Q-Network for Super Mario Bros
 
-![Mario GIF](images/Mario gif.gif)
+![Mario GIF](images/Mario%20gif.gif)
+
 
 
 
