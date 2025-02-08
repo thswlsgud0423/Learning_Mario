@@ -4,7 +4,6 @@
 
 
 
-
 ## Overview 
 
 This project implements a Deep Q-Network to train an AI agent to play Super Mario Bros using reinforcement learning. The model leverages convoulutional neural networks (CNNs) to approximate the Q-table and improve decision-making based on previous game states.
@@ -14,7 +13,7 @@ This project implements a Deep Q-Network to train an AI agent to play Super Mari
 Requirements:
 
 ```bash
-pip install torch gym gym-supeun the following command to start training:r-mario-bros nes-py opencv-python numpy matplotlib seaborn tensorboard
+pip install torch gym gym-supeun r-mario-bros nes-py opencv-python numpy matplotlib seaborn tensorboard
 ```
 
 ### 1. Train the model 
