@@ -1,6 +1,7 @@
 # Deep Q-Network for Super Mario Bros
 
-![Description of GIF]("C:\Users\jimmy\Desktop\Mario_Learning\Mario gif.gif")
+![Mario GIF](images/Mario gif.gif)
+
 
 
 ## Overview 
