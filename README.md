@@ -1,8 +1,7 @@
 # Deep Q-Network for Super Mario Bros
 
-```bash
-C:\Users\jimmy\Desktop\Mario_Learning\Mario_video.mp4
-```
+![Description of GIF]("C:\Users\jimmy\Desktop\Mario_Learning\Mario gif.gif")
+
 
 ## Overview 
 
